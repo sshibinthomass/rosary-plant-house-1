@@ -2,20 +2,20 @@
     "name": "Rosary Plant House",
     "short_name": "Rosary Plants",
     "description": "Your destination for beautiful succulents and indoor plants",
-    "start_url": "/rosary-plant-house/",
+    "start_url": "/rosary-plant-house-1/",
     "display": "standalone",
     "background_color": "#fffbf0",
     "theme_color": "#064e3b",
     "orientation": "portrait-primary",
     "icons": [
         {
-            "src": "/rosary-plant-house/icons/icon-192.png",
+            "src": "/rosary-plant-house-1/icons/icon-192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "/rosary-plant-house/icons/icon-512.png",
+            "src": "/rosary-plant-house-1/icons/icon-512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"

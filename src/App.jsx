@@ -18,7 +18,7 @@ import AdminDashboard from './pages/AdminDashboard';
 
 function App() {
   return (
-    <Router basename="/rosary-plant-house">
+    <Router basename="/rosary-plant-house-1">
       <AuthProvider>
         <CartProvider>
           <WishlistProvider>
